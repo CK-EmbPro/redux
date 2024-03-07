@@ -40,6 +40,8 @@ export const getPostsFailure = (errorMessage)=>{
     return actionObj;
 }
 
+// REDUX THUNK
+
 // export const getUserAsync = () =>{
 //     return (dispatch) => {
 //         dispatch(getPostsRequestSent());
